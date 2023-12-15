@@ -1,4 +1,4 @@
-# Python Code Style Guideline
+# Python Code Style Guideline by Misty
 ## Внешний вид кода
 * **Кейс**: snake_case для названий переменных (SNAKE_CASE для названий констант), функций и методов. PascalCase для названий классов. Аббревиатуры строчными буквами. Ключи словарей - в snake_case. Ключи JSON-объектов в camelCase, но если два Python-приложения общаются посредством JSON - тогда ключи JSON-объекта в snake_case.
 * **Индентация**: 4 пробела.
