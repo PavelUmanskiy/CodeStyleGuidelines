@@ -22,7 +22,7 @@
     * [База данных](#база-данных)
         
 
-# Правила оформления ФронтЭнда by [Alis](#https://github.com/JustAlis):
+# Правила оформления ФронтЭнда by [Alis](https://github.com/JustAlis):
 
 # JavaScript
 
